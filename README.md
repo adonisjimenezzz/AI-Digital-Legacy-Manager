@@ -280,4 +280,4 @@ Contribution
 * Update the documentation as needed.
 
 License
-* [Specify the license]
+* MIT License
